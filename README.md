@@ -20,7 +20,7 @@ If you choose to use Git follow these steps.
 
 * Open a terminal and cd to the directory you in which you want to install Watcher.
 * Run `git clone https://github.com/nosmokingbandit/Watcher3.git`
-* Start Watcher using `python3 watcher/watcher.py`
+* Start Watcher using `python3 Watcher3/watcher.py`
 * Open a browser and navigate to `localhost:9090`
 
 **Download ZIP:**
